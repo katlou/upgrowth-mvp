@@ -51,11 +51,13 @@ ul.ks-cboxtags li label{
 
 ul.ks-cboxtags li label {
     padding: 8px 12px;
-    cursor: pointer;
+    cursor: copy;
 }
 
 .other {
     margin-left: 0.3em;
+    text-decoration: underline;
+    cursor: copy;
 }
 
 #otherWordInput {
