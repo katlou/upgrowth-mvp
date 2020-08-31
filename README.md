@@ -1,2 +1,2 @@
 # upgrowth-mvp
-UpGrowth MVP created during TVI 2020 at HBS
+UpGrowth MVP created during MS/MBA Technology Venture Immersion 2020 at Harvard Business School.
